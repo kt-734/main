@@ -1,0 +1,32 @@
+{
+  "id": "ogn-champion-jinx",
+  "name": "Jinx Champion Deck",
+  "set": "Origins",
+  "description": "A preconstructed 56-card champion deck focused on Jinx. Filled with aggressive units and explosive spells for the Fury/Chaos domains.",
+  "cards": [
+    { "card_number": "OGN-251/298", "quantity": 1 },
+    { "card_number": "OGN-030/298", "quantity": 1 },
+    { "card_number": "OGN-036/298", "quantity": 1 },
+    { "card_number": "OGN-195/298", "quantity": 1 },
+    { "card_number": "OGN-001/298", "quantity": 2 },
+    { "card_number": "OGN-006/298", "quantity": 3 },
+    { "card_number": "OGN-002/298", "quantity": 3 },
+    { "card_number": "OGN-168/298", "quantity": 3 },
+    { "card_number": "OGN-169/298", "quantity": 3 },
+    { "card_number": "OGN-178/298", "quantity": 2 },
+    { "card_number": "OGN-008/298", "quantity": 2 },
+    { "card_number": "OGN-011/298", "quantity": 1 },
+    { "card_number": "OGN-003/298", "quantity": 3 },
+    { "card_number": "OGN-165/298", "quantity": 2 },
+    { "card_number": "OGN-019/298", "quantity": 3 },
+    { "card_number": "OGN-185/298", "quantity": 3 },
+    { "card_number": "OGN-024/298", "quantity": 2 },
+    { "card_number": "OGN-180/298", "quantity": 2 },
+    { "card_number": "OGN-182/298", "quantity": 3 },
+    { "card_number": "OGN-285/298", "quantity": 1 },
+    { "card_number": "OGN-289/298", "quantity": 1 },
+    { "card_number": "OGN-298/298", "quantity": 1 },
+    { "card_number": "OGN-007/298", "quantity": 6 },
+    { "card_number": "OGN-166/298", "quantity": 6 }
+  ]
+}
