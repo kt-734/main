@@ -1,4 +1,8 @@
-proving-grounds.json
-jinx-champion-deck.json
-lee-sin-champion-deck.json
-viktor-champion-deck.json
+{
+  "products": [
+    "proving-grounds.json",
+    "jinx-champion-deck.json",
+    "lee-sin-champion-deck.json",
+    "viktor-champion-deck.json"
+  ]
+}
