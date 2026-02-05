@@ -1,0 +1,33 @@
+{
+  "id": "ogn-champion-lee-sin",
+  "name": "Lee Sin Champion Deck",
+  "set": "Origins",
+  "description": "A preconstructed 56-card champion deck focused on Lee Sin. Built to outmatch opponents through buffs and defensive spells in the Calm/Mind domains.",
+  "cards": [
+    { "card_number": "OGN-257/298", "quantity": 1 },
+    { "card_number": "OGN-151/298", "quantity": 1 },
+    { "card_number": "OGN-157/298", "quantity": 1 },
+    { "card_number": "OGN-152/298", "quantity": 1 },
+    { "card_number": "OGN-043/298", "quantity": 2 },
+    { "card_number": "OGN-128/298", "quantity": 3 },
+    { "card_number": "OGN-053/298", "quantity": 2 },
+    { "card_number": "OGN-052/298", "quantity": 3 },
+    { "card_number": "OGN-136/298", "quantity": 3 },
+    { "card_number": "OGN-055/298", "quantity": 3 },
+    { "card_number": "OGN-132/298", "quantity": 3 },
+    { "card_number": "OGN-135/298", "quantity": 2 },
+    { "card_number": "OGN-125/298", "quantity": 2 },
+    { "card_number": "OGN-137/298", "quantity": 2 },
+    { "card_number": "OGN-147/298", "quantity": 3 },
+    { "card_number": "OGN-282/298", "quantity": 1 },
+    { "card_number": "OGN-289/298", "quantity": 1 },
+    { "card_number": "OGN-280/298", "quantity": 1 },
+    { "card_number": "OGN-065/298", "quantity": 3 },
+    { "card_number": "OGN-142/298", "quantity": 2 },
+    { "card_number": "OGN-058/298", "quantity": 3 },
+    { "card_number": "OGN-060/298", "quantity": 1 },
+    { "card_number": "OGN-273/298", "quantity": 8 },
+    { "card_number": "OGN-042/298", "quantity": 6 },
+    { "card_number": "OGN-126/298", "quantity": 6 }
+  ]
+}
