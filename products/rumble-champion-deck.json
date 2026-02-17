@@ -2,7 +2,7 @@
   "id": "sfd-champion-rumble",
   "name": "Rumble Champion Deck",
   "set": "Spiritforged",
-  "description": "A preconstructed 56-card champion deck focused on Rumble. A mech based deck for the Fury/Mind domains.",
+  "description": "A preconstructed 63-card champion deck focused on Rumble. A mech based deck for the Fury/Mind domains.",
   "cards": [
     { "card_number": "SFD-181/221", "quantity": 1 },
     { "card_number": "SFD-089/221", "quantity": 1 },
